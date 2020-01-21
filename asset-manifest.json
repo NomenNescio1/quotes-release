@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/simpsons-quotes/static/css/main.3296c351.chunk.css",
-    "main.js": "/simpsons-quotes/static/js/main.c12a1304.chunk.js",
-    "main.js.map": "/simpsons-quotes/static/js/main.c12a1304.chunk.js.map",
-    "runtime-main.js": "/simpsons-quotes/static/js/runtime-main.22754a33.js",
-    "runtime-main.js.map": "/simpsons-quotes/static/js/runtime-main.22754a33.js.map",
-    "static/js/2.381ba4ff.chunk.js": "/simpsons-quotes/static/js/2.381ba4ff.chunk.js",
-    "static/js/2.381ba4ff.chunk.js.map": "/simpsons-quotes/static/js/2.381ba4ff.chunk.js.map",
-    "index.html": "/simpsons-quotes/index.html",
-    "precache-manifest.079b458bc248341d212356d1c7b6956f.js": "/simpsons-quotes/precache-manifest.079b458bc248341d212356d1c7b6956f.js",
-    "service-worker.js": "/simpsons-quotes/service-worker.js",
-    "static/css/main.3296c351.chunk.css.map": "/simpsons-quotes/static/css/main.3296c351.chunk.css.map",
-    "static/js/2.381ba4ff.chunk.js.LICENSE": "/simpsons-quotes/static/js/2.381ba4ff.chunk.js.LICENSE"
+    "main.css": "/quotes-release/static/css/main.3296c351.chunk.css",
+    "main.js": "/quotes-release/static/js/main.8f9d34b7.chunk.js",
+    "main.js.map": "/quotes-release/static/js/main.8f9d34b7.chunk.js.map",
+    "runtime-main.js": "/quotes-release/static/js/runtime-main.f57bed6f.js",
+    "runtime-main.js.map": "/quotes-release/static/js/runtime-main.f57bed6f.js.map",
+    "static/js/2.381ba4ff.chunk.js": "/quotes-release/static/js/2.381ba4ff.chunk.js",
+    "static/js/2.381ba4ff.chunk.js.map": "/quotes-release/static/js/2.381ba4ff.chunk.js.map",
+    "index.html": "/quotes-release/index.html",
+    "precache-manifest.fd946beb60017a4aa5dbcbfacbaf06a2.js": "/quotes-release/precache-manifest.fd946beb60017a4aa5dbcbfacbaf06a2.js",
+    "service-worker.js": "/quotes-release/service-worker.js",
+    "static/css/main.3296c351.chunk.css.map": "/quotes-release/static/css/main.3296c351.chunk.css.map",
+    "static/js/2.381ba4ff.chunk.js.LICENSE": "/quotes-release/static/js/2.381ba4ff.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.22754a33.js",
+    "static/js/runtime-main.f57bed6f.js",
     "static/js/2.381ba4ff.chunk.js",
     "static/css/main.3296c351.chunk.css",
-    "static/js/main.c12a1304.chunk.js"
+    "static/js/main.8f9d34b7.chunk.js"
   ]
 }
